@@ -1,0 +1,10 @@
+.activitiesContainer{
+      display: flex; 
+      flex-wrap: wrap;
+      width: 100%;
+      max-width: 1200px;
+}
+
+.activityBorder {
+      background-color: #fffceb;
+}

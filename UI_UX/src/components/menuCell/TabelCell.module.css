@@ -1,0 +1,7 @@
+.tableCellContainer {
+      display: block;
+      padding-left: 20px;
+      padding-right: 20px;
+      max-width: 540px;
+      block-size: content-box
+}

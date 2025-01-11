@@ -1,0 +1,19 @@
+.container {
+   position: relative;
+   display: inline-block;
+   width: 100%;
+}
+.button {
+   width: 100%;
+   border-radius: 0px;
+   border-width: 4px, 0px;
+   border-color: black;
+   text-align: left;
+   padding-right: 15vh;
+   background-color: #fffbe6;
+   color: #333;
+   cursor: pointer;
+   outline: 0;
+   font-size: 20px;
+}
+   

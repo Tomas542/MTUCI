@@ -1,0 +1,29 @@
+.infoContainer {
+  width: 95%;
+  max-width: 100%;
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 15px;
+  border-color: black;
+  border-width: 115px;
+  background-color: orange; 
+  color: black;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  scrollbar-width: thin; 
+  scrollbar-color: black orange; 
+}
+
+
+.infoContainer::-webkit-scrollbar {
+  width: 8px; 
+}
+
+.infoContainer::-webkit-scrollbar-thumb {
+  background-color: black;
+  border-radius: 10px;
+}
+
+.infoContainer::-webkit-scrollbar-track {
+  background: orange;
+}
+

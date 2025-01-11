@@ -1,0 +1,7 @@
+.activityContainer {
+      display: block;
+      padding-left: 20px;
+      padding-right: 20px;
+      max-width: 460px;
+      block-size: content-box
+}

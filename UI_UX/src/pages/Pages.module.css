@@ -1,0 +1,27 @@
+.main {
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+      justify-content: center; 
+      min-height: 100vh;
+      width: 98.7vw;
+      overflow-x: hidden;
+      background-color: #fffbe6;
+      padding-top: 50px;         
+}
+.slogan {
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+      justify-content: center; 
+      height: 55vh
+}
+
+.text {
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+      justify-content: center; 
+      margin-top: 50px; 
+      color:black;
+}

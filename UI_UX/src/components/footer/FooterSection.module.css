@@ -1,0 +1,12 @@
+.footer {
+      width: 100%; 
+      height: 9vh;
+      background-color: black;  
+      z-index: 1000 
+}
+
+.footerContainer {
+      margin-top: 2.5vh; 
+      margin-left: 10px;
+      color: #fffbe6;
+}
