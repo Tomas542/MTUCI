@@ -53,3 +53,17 @@ Transport task and simplex
 
 ## NN (6 semester)
 Neaural Nets in <b>PyTorch</b>
+
+# 4 year
+
+## AIS (7 semester)
+ML and DL basics
+
+## DIIS (7 semester)
+DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>)
+
+## CV (7 semester)
+<b>OpenCV</b> basics
+
+## UI_UX (7 semester)
+TODO: push in 8 semester
