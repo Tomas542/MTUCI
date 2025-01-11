@@ -1,0 +1,2 @@
+# MTUCI
+Some university subjects
