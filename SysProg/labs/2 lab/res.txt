@@ -1,0 +1,2 @@
+Total number of lower case letters is 17
+Total number of lower case letters is 29

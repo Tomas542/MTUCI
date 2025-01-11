@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <fcntl.h>
+
+int helper(char file_name[]){
+        char ch;
+        int letter = 0;
+        int reader;
+
+        int in = open(file_name, O_RDONLY);
+        while((reader = read(in, &ch, 1)) > 0) {
+                if(isalpha(ch) != 0) {
+                        letter++;
+                }
+        }
+        return letter
+}
+
+int main(void) {
+        char path1[] = "input/text1.txt";
+        char path2[] = "input/text2.txt";
+	int arr[2];
+	arr[0] = helper(path1);
+        arr[1] = helper(path2);
+	if (arr[0] > arr[1]) {
+		FILE *out = fopen("output/res2.txt", "w");
+		fprintf(out, "Letters: %d, name %s", arr[1], path[2]);
+		fclose();
+	} else {
+		int main(void) {
+        char path1[] = "input/text1.txt";
+        char path2[] = "input/text2.txt";
+        helper(path1);
+        helper(path2);
+        printf("Files read:\n %s\n %s\nWrote into /out/res.txt\n", path1, path2);
+        return 0;
+}
+
+	}
+        printf("Files read:\n %s\n %s\nWrote into /out/res.txt\n", path1, path2);
+        return 0;
+}
+}

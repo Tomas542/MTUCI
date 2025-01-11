@@ -1,0 +1,1 @@
+text1 lower case is 17, text2 lower case is 29

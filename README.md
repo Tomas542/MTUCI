@@ -18,7 +18,29 @@ Cite with <b>HTML-CSS</b>
 # 2 year
 
 ## ITaP (3 semester)
-Java labs and practices
+<b>Java</b> labs and practices
 
 ## DSaA (4 semester)
-Algorithms and data structures in Python
+Algorithms and data structures in <b>Python</b>
+
+# 3 year
+
+## OS (5 semester)
+Getting system info in <b>C</b>, signals and threades.
+
+[Course-work with client-server app in C++ on Linux and Windows (windows branch)](https://github.com/Tomas542/client_server/tree/main). One of a platform has simple GUI.
+
+## SysProg (5 semester)
+Simple programms in <b>C/C++</b> and labs
+
+## DOS (5 semester)
+Program for 6 lab
+
+## Networks (5 semester)
+Some file (idk) and programm for cabel length computing
+
+## DMaDB (6 semester)
+<b>Python</b> DA and DS basics
+
+## NN (6 semester)
+Neaural Nets in <b>PyTorch</b>

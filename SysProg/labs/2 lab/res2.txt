@@ -1,0 +1,1 @@
+Letters: 21, file: input/text1.txt
