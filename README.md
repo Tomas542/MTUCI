@@ -15,3 +15,10 @@ CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> code 
 ## ui_summer_practice (end of 1 year)
 Cite with <b>HTML-CSS</b>
 
+# 2 year
+
+## ITaP (3 semester)
+Java labs and practices
+
+## DSaA (4 semester)
+Algorithms and data structures in Python

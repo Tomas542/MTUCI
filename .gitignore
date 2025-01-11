@@ -5,4 +5,4 @@ __pycache__
 .vscode
 .idea
 
-ITaP/*/out
+out/
