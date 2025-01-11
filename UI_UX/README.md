@@ -1,6 +1,6 @@
 # BVT2101 Iudin Artyom
 
-This is web-site demo
+This is web-site demo. First install <b>Node.js</b> from site and <b>Yarn</b> through <b>npm</b>
 
 Optional
 ```shell
