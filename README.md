@@ -66,4 +66,4 @@ DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>)
 <b>OpenCV</b> basics
 
 ## UI_UX (7 semester)
-TODO: push in 8 semester
+<b>React</b> anti-cafe
