@@ -20,6 +20,9 @@ Cite with <b>HTML-CSS</b>
 ## ITaP (3 semester)
 <b>Java</b> labs and practices
 
+## ElTech (3 semester)
+Coursework computing
+
 ## DSaA (4 semester)
 Algorithms and data structures in <b>Python</b>
 
@@ -38,6 +41,12 @@ Program for 6 lab
 
 ## Networks (5 semester)
 Some file (idk) and programm for cabel length computing
+
+## MBoDB (5 semester)
+<b>PySpark</b> [5](https://www.kaggle.com/code/tomas245/pyspark-rdd) and [6](https://www.kaggle.com/code/tomas245/pyspark-ml) labs 
+
+## SAaOR (5 semester)
+Transport task and simplex
 
 ## DMaDB (6 semester)
 <b>Python</b> DA and DS basics
