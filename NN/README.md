@@ -1,4 +1,4 @@
-## NN
+# NN
 
 - <b>1 lab</b> - NumPy delta-method training of NN.
 - <b>2 lab</b> - NN with PyTorch without autograd.
