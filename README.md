@@ -13,7 +13,7 @@ CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> code 
 [Here](https://github.com/Tomas542/DeepSort)
 
 ## MS (2 semester)
-TODO: Add Assembler labs
+Assembly (<b>FASM</b> and <b>TASM</b>) labs
 
 ## ui_summer_practice (end of 1 year)
 Cite with <b>HTML-CSS</b>
