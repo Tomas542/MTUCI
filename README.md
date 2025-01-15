@@ -70,3 +70,6 @@ DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>)
 
 ## UI_UX (7 semester)
 <b>React</b> anti-cafe
+
+## AMP (7 semester)
+Quartus labs
