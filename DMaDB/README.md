@@ -30,3 +30,8 @@ pip install -r requirements.txt
 - <b>3 lab</b> - Z-score, anomaly, NaNs, correlation
 - <b>4 lab</b> - dummy-values and ML algorithms
 - <b>5 lab</b> - Decision Tree regression with California House pricing
+
+## Bonus labs
+
+Labs from newer programm:
+- <b>Chi-t</b> Chi-square and T-tests
