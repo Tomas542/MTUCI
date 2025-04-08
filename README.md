@@ -73,3 +73,11 @@ DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>)
 
 ## AMP (7 semester)
 Quartus labs
+
+# 4 year
+
+## HighPerf (8 semester)
+Intersting labs with Monte-Carlo
+
+## DL (8 semester)
+Deep Learning with different models
