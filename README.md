@@ -7,7 +7,7 @@ Some university subjects
 <b>Flask</b> web-apps with <b>PostgreSQL</b>, <b>telegram bots</b>.
 
 ## DevOps (2 semester)
-CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> code formatting + <b>pytest</b>
+CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> linters + <b>pytest</b>
 
 ## IDK (2 semester, something about CV project)
 [Here](https://github.com/Tomas542/DeepSort)
@@ -55,7 +55,7 @@ Transport task and simplex
 <b>Python</b> DA and DS basics
 
 ## NN (6 semester)
-Neaural Nets in <b>PyTorch</b>
+Neural Nets in <b>PyTorch</b>
 
 # 4 year
 
