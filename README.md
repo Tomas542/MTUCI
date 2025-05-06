@@ -1,6 +1,8 @@
 # MTUCI
 Some university subjects
 
+[Non-code things](https://studfile.net/users/tomas_yudin/)
+
 # 1 year
 
 ## IIIT (1 term)
@@ -57,6 +59,9 @@ Transport task and simplex
 ## NN (6 semester)
 Neural Nets in <b>PyTorch</b>
 
+## Networks (6 semester)
+All materials [here](https://studfile.net/mtusi/steh/folder:65269/) on Studfile in mtusi/steh
+
 # 4 year
 
 ## AIS (7 semester)
@@ -81,3 +86,6 @@ Intersting labs with Monte-Carlo
 
 ## DL (8 semester)
 Deep Learning with different models
+
+## AIS_Practice
+YOLO + Streamlit app
