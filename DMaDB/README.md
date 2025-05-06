@@ -35,3 +35,6 @@ pip install -r requirements.txt
 
 Labs from newer programm:
 - <b>Chi-t</b> Chi-square and T-tests
+- <b>LinReg</b> Linear Regression and gradient discente
+- <b>WKNN</b> KNN uniform and weighted classification and regression
+- <b>Dec_Tree_classifier</b> and <b>Dec_Tree_stop_criteria</b>
