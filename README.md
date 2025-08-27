@@ -1,7 +1,5 @@
 # MTUCI
-Some university subjects
-
-[Non-code things](https://studfile.net/users/tomas_yudin/)
+Some university subjects. Stars and PRs are welcome!
 
 # 1 year
 
@@ -9,27 +7,27 @@ Some university subjects
 <b>Flask</b> web-apps with <b>PostgreSQL</b>, <b>telegram bots</b>.
 
 ## DevOps (2 semester)
-CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> linters + <b>pytest</b>
+CI-CD with <b>GitLab</b> and <b>Jenkins</b>. <b>Flake8</b> and <b>mypy</b> linters + <b>pytest</b>.
 
 ## IDK (2 semester, something about CV project)
-[Here](https://github.com/Tomas542/DeepSort)
+[Here](https://github.com/Tomas542/DeepSort).
 
 ## MS (2 semester)
-Assembly (<b>FASM</b> and <b>TASM</b>) labs
+Assembly (<b>FASM</b> and <b>TASM</b>) labs.
 
 ## ui_summer_practice (end of 1 year)
-Cite with <b>HTML-CSS</b>
+Cite with <b>HTML-CSS</b>.
 
 # 2 year
 
 ## ITaP (3 semester)
-<b>Java</b> labs and practices
+<b>Java</b> labs and practices.
 
 ## ElTech (3 semester)
-Coursework computing
+Coursework computing. The result is [here](https://studfile.net/users/tomas_yudin/folder:65271/).
 
 ## DSaA (4 semester)
-Algorithms and data structures in <b>Python</b>
+Algorithms and data structures in <b>Python</b>.
 
 # 3 year
 
@@ -39,53 +37,56 @@ Getting system info in <b>C</b>, signals and threades.
 [Course-work with client-server app in C++ on Linux and Windows (windows branch)](https://github.com/Tomas542/client_server/tree/main). One of a platform has simple GUI.
 
 ## SysProg (5 semester)
-Simple programms in <b>C/C++</b> and labs
+Simple programms in <b>C/C++</b> and labs.
 
 ## DOS (5 semester)
-Program for 6 lab
+Program for 6 lab. [Other labs are here](https://studfile.net/users/tomas_yudin/folder:65270/).
 
 ## Networks (5 semester)
-Some file (idk) and programm for cabel length computing
+Some file (idk) and programm for cabel length computing.
 
 ## MBoDB (5 semester)
-<b>PySpark</b> [5](https://www.kaggle.com/code/tomas245/pyspark-rdd) and [6](https://www.kaggle.com/code/tomas245/pyspark-ml) labs 
+<b>PySpark</b> [5](https://www.kaggle.com/code/tomas245/pyspark-rdd) and [6](https://www.kaggle.com/code/tomas245/pyspark-ml) labs.
 
 ## SAaOR (5 semester)
-Transport task and simplex
+Transport task and simplex.
 
 ## DMaDB (6 semester)
-<b>Python</b> DA and DS basics
+<b>Python</b> DA and DS basics.
 
 ## NN (6 semester)
-Neural Nets in <b>PyTorch</b>
+Neural Nets in <b>PyTorch</b>.
 
 ## Networks (6 semester)
-All materials [here](https://studfile.net/mtusi/steh/folder:65269/) on Studfile in mtusi/steh
+All materials are [here](https://studfile.net/mtusi/steh/folder:65269/).
 
 # 4 year
 
 ## AIS (7 semester)
-ML and DL basics
+ML and DL basics.
 
 ## DIIS (7 semester)
-DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>)
+DL basics with <b>TF</b> (first 4 labs were made with <b>JAX</b>).
 
 ## CV (7 semester)
-<b>OpenCV</b> basics
+<b>OpenCV</b> basics.
 
 ## UI_UX (7 semester)
-<b>React</b> anti-cafe
+<b>React</b> anti-cafe.
 
 ## AMP (7 semester)
-Quartus labs
+Quartus labs.
 
 # 4 year
 
 ## HighPerf (8 semester)
-Intersting labs with Monte-Carlo
+Intersting labs with Monte-Carlo.
 
 ## DL (8 semester)
-Deep Learning with different models
+Deep Learning with different models. (WIP)
 
-## AIS_Practice
-YOLO + Streamlit app
+## AIS_Practice (end of 4 year)
+YOLO + Streamlit app.
+
+# BSIT thesis
+[Here](https://github.com/Tomas542/Thesis).
