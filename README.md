@@ -89,4 +89,4 @@ Deep Learning with different models. (WIP)
 YOLO + Streamlit app.
 
 # BSIT thesis
-[Here](https://github.com/Tomas542/Thesis).
+[Here](https://github.com/Tomas542/bsit_thesis).
