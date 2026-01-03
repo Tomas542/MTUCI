@@ -83,7 +83,7 @@ Quartus labs.
 Intersting labs with Monte-Carlo.
 
 ## DL (8 semester)
-Deep Learning with different models. (WIP)
+Deep Learning with different models.
 
 ## AIS_Practice (end of 4 year)
 YOLO + Streamlit app.
